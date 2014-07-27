@@ -1,0 +1,256 @@
+INFO:root:Writing spam:eggs to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file 
+DEBUG:root:Write successful
+INFO:root:Writing green eggs:ham to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file 
+DEBUG:root:Write successful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Starting snippets
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Writing green eggs:ham to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file 
+DEBUG:root:Write successful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put subparser
+INFO:root:Writing nano:whatever to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write successful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Writing nano:whatever to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write successful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Writing nano:whatever to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write successful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Writing nano:whatever to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write successful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Writing nano:whatever to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write successful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Writing nano:whatever to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:Write successful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:Writing nano:whatever to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:Writing snippet to file
+DEBUG:root:07/27/14 03:08:25Write successful
+INFO:root:Starting snippets
+INFO:root:Constructing parser
+DEBUG:root:Constructing put parser
+INFO:root:07/27/14 03:09:16 Writing nano:whatever to snippets.csv
+DEBUG:root:Opening file
+DEBUG:root:07/27/14 03:09:16 Writing snippet to file
+DEBUG:root:07/27/14 03:09:16 Write successful
